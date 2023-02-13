@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-> make links, not war
-
-> links are love
-
-> ☮
-
 <!--
 **Konard/Konard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
