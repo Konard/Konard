@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-    <h1>🛠️ Tools I use:</h2>
+    <h1>🛠️ Tools I use 🛠️</h2>
 </div>
 
 <table>
@@ -90,7 +90,7 @@
 
 
 <div align="center">
-    <h1>💬 Contacts:</h2>
+    <h1>💬 Contacts 💬</h2>
 </div>
 <div>
     <a href="https://t.me/drakonard" target="_blank"> <img src="https://img.icons8.com/color/48/telegram-app--v1.png"/> </a> 
