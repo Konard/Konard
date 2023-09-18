@@ -1,5 +1,9 @@
 ### Hi, [here is your invitation to the Deep](http://github.com/deep-foundation).
 
+<div align="center">
+    <h1><a href="https://github.com/linksplatform" target="_blank">L ↦ L²</a></h1>
+</div>
+
 #### [Universal problem solving algorithm](https://github.com/Konard/problem-solving):
 
 1. [**Problem Formulation**](https://github.com/Konard/problem-solving/blob/main/problem-solving/problem-formulation/problem-formulation.md): This step involves fully understanding and defining the problem that needs to be solved. This includes defining the problem in clear, precise terms and breaking it down into smaller, manageable parts. Alongside this understanding, you also formulate failing tests based on the problem's definition. These tests serve as concrete goals that the solution should achieve. The aim of this step is to transform the initial problem into a well-defined set of failing tests that clearly express what a solution to the problem should look like.
@@ -10,7 +14,9 @@
     <img src="https://img.icons8.com/color/48/developer--v1.png"/>
 </div>
 
-<h1>🛠️ Tools I use:</h2>
+<div align="center">
+    <h1>🛠️ Tools I use:</h2>
+</div>
 
 <table>
   <tr>
@@ -82,10 +88,16 @@
   </tr>
 </table>
 
-<h1>💬 Contacts:</h2>
+
+<div align="center">
+    <h1>💬 Contacts:</h2>
+</div>
 <div>
     <a href="https://t.me/drakonard" target="_blank"> <img src="https://img.icons8.com/color/48/telegram-app--v1.png"/> </a> 
     <a href="https://discord.com/users/drakonard" target="_blank"> <img src="https://img.icons8.com/color/48/discord-logo.png"/> </a> 
     <a width="48px" href="https://stackoverflow.com/users/710069/konard" target="_blank"> <img src="https://img.icons8.com/fluency/48/stackexchange.png"/> </a>
 </div>
 
+<div align="center">
+    <h1><a href="http://github.com/deep-foundation" target="_blank">L ↦ L³</a></h1>
+</div>
