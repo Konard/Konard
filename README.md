@@ -10,6 +10,8 @@
 
 2. [**Solution Implementation**](https://github.com/Konard/problem-solving/blob/main/problem-solving/solution-implementation/solution-implementation.md): This step begins with formulating a plan to pass the tests defined in the previous step. With a clear understanding of what the solution should achieve (as defined by the tests), you write just enough code to pass these tests. This promotes a focus on solving the problem at hand without overcomplicating the solution. After making the tests pass, you refine the solution through debugging and refactoring to improve its structure and performance without changing its behavior. This step is iterative and may involve revisiting the problem formulation stage if new information or difficulties arise, or if the tests need to be updated. Finally, documenting the solution for future reference and for others' understanding is an integral part of this step.
 
+![UniversalAlgorithm](https://github.com/Konard/Konard/assets/1431904/1a8c337b-3e2b-408b-9530-91846692e27d)
+
 <div align="center">
     <img src="https://img.icons8.com/color/48/developer--v1.png"/>
 </div>
