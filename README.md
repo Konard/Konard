@@ -12,7 +12,7 @@
 
 )
 
-![UniversalAlgorithm](https://github.com/Konard/Konard/assets/1431904/1a8c337b-3e2b-408b-9530-91846692e27d)
+[![UniversalAlgorithm](https://github.com/Konard/Konard/assets/1431904/1a8c337b-3e2b-408b-9530-91846692e27d)](https://github.com/Konard/problem-solving)
 
 <div align="center">
     <img src="https://img.icons8.com/color/48/developer--v1.png"/>
