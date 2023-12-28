@@ -32,19 +32,19 @@
         <a href="https://en.wikipedia.org/wiki/Language" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-coding-language-computer-science-flaticons-lineal-color-flat-icons-2.png"/> </a> 
     </td>
     <td>
-        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/c-programming.png"/> </a> 
-        <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/> </a> 
-        <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/c-sharp-logo.png"/> </a> 
-        <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/python--v1.png"/> </a> 
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/javascript.png"/> </a> 
-        <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/typescript.png"/> </a> 
-        <a href="https://img.icons8.com/color/344/graphql.png" target="_blank"> <img src="https://img.icons8.com/color/48/graphql.png"/> </a>
-        <a href="https://www.gnu.org/software/bash" target="_blank"> <img src="https://img.icons8.com/color/48/console.png"/> </a> 
-        <a href="https://www.w3.org/html" target="_blank"> <img src="https://img.icons8.com/color/48/html-5.png"/> </a> 
-        <a href="https://www.w3schools.com/css" target="_blank"> <img src="https://img.icons8.com/color/48/css3.png"/> </a> 
-        <a href="https://www.json.org/json-en.html" target="_blank"> <img src="https://img.icons8.com/color/48/json--v1.png"/> </a> 
-        <a href="https://en.wikipedia.org/wiki/XML" target="_blank"> <img src="https://img.icons8.com/color/48/xml.png"/> </a> 
-        <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"> <img src="https://img.icons8.com/color/48/markdown.png"/> </a>
+        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/c-programming.png"/></a> 
+        <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/></a>
+        <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/c-sharp-logo.png"/></a> 
+        <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/python--v1.png"/></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/javascript.png"/></a> 
+        <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.icons8.com/color/48/typescript.png"/></a>
+        <a href="https://img.icons8.com/color/344/graphql.png" target="_blank"><img src="https://img.icons8.com/color/48/graphql.png"/></a>
+        <a href="https://www.gnu.org/software/bash" target="_blank"><img src="https://img.icons8.com/color/48/console.png"/></a>
+        <a href="https://www.w3.org/html" target="_blank"><img src="https://img.icons8.com/color/48/html-5.png"/></a>
+        <a href="https://www.w3schools.com/css" target="_blank"><img src="https://img.icons8.com/color/48/css3.png"/></a>
+        <a href="https://www.json.org/json-en.html" target="_blank"><img src="https://img.icons8.com/color/48/json--v1.png"/></a>
+        <a href="https://en.wikipedia.org/wiki/XML" target="_blank"><img src="https://img.icons8.com/color/48/xml.png"/></a>
+        <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"><img src="https://img.icons8.com/color/48/markdown.png"/></a>
     </td>
   </tr>
   <tr>
