@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>
-        <a href="https://en.wikipedia.org/wiki/Language" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-coding-language-computer-science-flaticons-lineal-color-flat-icons-2.png"/> </a> 
+        <a href="https://en.wikipedia.org/wiki/Language" target="_blank"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-coding-language-computer-science-flaticons-lineal-color-flat-icons-2.png"/></a> 
     </td>
     <td>
         <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/c-programming.png"/></a> 
@@ -49,32 +49,32 @@
   </tr>
   <tr>
     <td>
-        <a href="https://en.wikipedia.org/wiki/Database" target="_blank"> <img src="https://img.icons8.com/fluency/48/database.png"/> </a> 
+        <a href="https://en.wikipedia.org/wiki/Database" target="_blank"><img src="https://img.icons8.com/fluency/48/database.png"/></a> 
     </td>
     <td>
-        <a href="https://github.com/linksplatform" target="_blank"> <img src="https://avatars.githubusercontent.com/u/15116341?s=48&v=4"/> </a> 
-        <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/> </a>
-        <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.icons8.com/color/48/postgreesql.png"/> </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-        <a href="https://en.wikipedia.org/wiki/Operating_system" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-operating-system-computer-science-flaticons-lineal-color-flat-icons.png"/> </a> 
-    </td>
-    <td>
-        <a href="https://www.android.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/android-os.png"/> </a>
-        <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/linux--v1.png"/> </a>
-        <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://img.icons8.com/fluency/48/windows-10.png"/> </a>
+        <a href="https://github.com/linksplatform" target="_blank"><img src="https://avatars.githubusercontent.com/u/15116341?s=48&v=4"/></a> 
+        <a href="https://www.mysql.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/></a>
+        <a href="https://www.postgresql.org" target="_blank"><img src="https://img.icons8.com/color/48/postgreesql.png"/></a>
     </td>
   </tr>
   <tr>
     <td>
-        <a href="https://en.wikipedia.org/wiki/Package_manager" target="_blank"> <img src="https://img.icons8.com/emoji/48/package-.png"/> </a> 
+        <a href="https://en.wikipedia.org/wiki/Operating_system" target="_blank"><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-operating-system-computer-science-flaticons-lineal-color-flat-icons.png"/></a> 
     </td>
     <td>
-        <a href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/npm.png"/> </a> 
-        <a href="https://www.nuget.org" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-nuget-a-free-and-open-source-package-manager-designed-for-the-microsoft-development-platform-logo-color-tal-revivo.png"/> </a>
-        <a href="https://conan.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/15212165?s=48&v=4"/> </a>
+        <a href="https://www.android.com" target="_blank"><img src="https://img.icons8.com/fluency/48/android-os.png"/></a>
+        <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/48/linux--v1.png"/></a>
+        <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://img.icons8.com/fluency/48/windows-10.png"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <a href="https://en.wikipedia.org/wiki/Package_manager" target="_blank"><img src="https://img.icons8.com/emoji/48/package-.png"/></a> 
+    </td>
+    <td>
+        <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/npm.png"/></a> 
+        <a href="https://www.nuget.org" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-nuget-a-free-and-open-source-package-manager-designed-for-the-microsoft-development-platform-logo-color-tal-revivo.png"/></a>
+        <a href="https://conan.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/15212165?s=48&v=4"/></a>
     </td>
   </tr>
   <tr>
@@ -82,12 +82,12 @@
         <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/48/external-multitool-vacation-planning-cycling-tour-flaticons-flat-flat-icons.png"/>
     </td>
     <td>
-        <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/git.png"/> </a> 
-        <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/nodejs.png"/> </a>
-        <a href="https://webpack.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/webpack.png"/> </a> 
-        <a href="https://reactjs.org" target="_blank"> <img src="https://img.icons8.com/color/48/react-native.png"/> </a>
-        <a href="https://www.google.com" target="_blank"> <img src="https://img.icons8.com/color/48/google-logo.png"/> </a> 
-        <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://img.icons8.com/color/48/jetbrains.png"/> </a>
+        <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/git.png"/></a> 
+        <a href="https://nodejs.org" target="_blank"><img src="https://img.icons8.com/color/48/nodejs.png"/></a>
+        <a href="https://webpack.js.org" target="_blank"><img src="https://img.icons8.com/color/48/webpack.png"/></a> 
+        <a href="https://reactjs.org" target="_blank"><img src="https://img.icons8.com/color/48/react-native.png"/></a>
+        <a href="https://www.google.com" target="_blank"><img src="https://img.icons8.com/color/48/google-logo.png"/></a> 
+        <a href="https://www.jetbrains.com/" target="_blank"><img src="https://img.icons8.com/color/48/jetbrains.png"/></a>
     </td>
   </tr>
 </table>
@@ -97,9 +97,9 @@
     <h1>💬 Contacts 💬</h2>
 </div>
 <div>
-    <a href="https://t.me/drakonard" target="_blank"> <img src="https://img.icons8.com/color/48/telegram-app--v1.png"/> </a> 
-    <a href="https://discord.com/users/drakonard" target="_blank"> <img src="https://img.icons8.com/color/48/discord-logo.png"/> </a> 
-    <a width="48px" href="https://stackoverflow.com/users/710069/konard" target="_blank"> <img src="https://img.icons8.com/fluency/48/stackexchange.png"/> </a>
+    <a href="https://t.me/drakonard" target="_blank"><img src="https://img.icons8.com/color/48/telegram-app--v1.png"/></a> 
+    <a href="https://discord.com/users/drakonard" target="_blank"><img src="https://img.icons8.com/color/48/discord-logo.png"/></a> 
+    <a width="48px" href="https://stackoverflow.com/users/710069/konard" target="_blank"><img src="https://img.icons8.com/fluency/48/stackexchange.png"/></a>
 </div>
 
 <div align="center">
